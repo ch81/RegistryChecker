@@ -1,0 +1,6 @@
+c:\users\sujaai\documents\visual studio 2017\Projects\RegistryChecker\RegistryChecker\obj\Debug\RegistryChecker.csprojResolveAssemblyReference.cache
+c:\users\sujaai\documents\visual studio 2017\Projects\RegistryChecker\RegistryChecker\bin\Debug\RegistryChecker.exe.config
+c:\users\sujaai\documents\visual studio 2017\Projects\RegistryChecker\RegistryChecker\bin\Debug\RegistryChecker.exe
+c:\users\sujaai\documents\visual studio 2017\Projects\RegistryChecker\RegistryChecker\bin\Debug\RegistryChecker.pdb
+c:\users\sujaai\documents\visual studio 2017\Projects\RegistryChecker\RegistryChecker\obj\Debug\RegistryChecker.exe
+c:\users\sujaai\documents\visual studio 2017\Projects\RegistryChecker\RegistryChecker\obj\Debug\RegistryChecker.pdb
